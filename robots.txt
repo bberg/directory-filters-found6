@@ -2,5 +2,5 @@
 User-agent: *
 Disallow: /legal/privacy-policy
 
-Sitemap: https://ParkingManagementHub.com/sitemap.xml
+Sitemap: https://filtersfound.com/sitemap.xml
 # END nuxt-robots
