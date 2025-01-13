@@ -12,7 +12,7 @@ export default defineAppConfig({
     // url is necessary for correct function of seo module.
     name: "Well Water Filter Directory",
     description: "Directory of Well Water Filters",
-    url: "https://ParkingManagementHub.com",
+    url: "https://filtersfound.com",
     favicon: {
       image: "",
       emoji: "",
