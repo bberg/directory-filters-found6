@@ -1,0 +1,6 @@
+# START nuxt-robots (indexable)
+User-agent: *
+Disallow: /legal/privacy-policy
+
+Sitemap: https://ParkingManagementHub.com/sitemap.xml
+# END nuxt-robots
